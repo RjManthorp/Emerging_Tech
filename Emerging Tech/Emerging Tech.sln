@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerging Tech.CSharp.Plugins", "Emerging Tech.CSharp.Plugins.csproj", "{B1DC6A9B-4AD2-31C7-A54C-7ED6B3029A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emerging Tech.CSharp", "Emerging Tech.CSharp.csproj", "{5DEB079D-F0A3-1EF4-9C61-973749137AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DC6A9B-4AD2-31C7-A54C-7ED6B3029A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DC6A9B-4AD2-31C7-A54C-7ED6B3029A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DC6A9B-4AD2-31C7-A54C-7ED6B3029A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DC6A9B-4AD2-31C7-A54C-7ED6B3029A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEB079D-F0A3-1EF4-9C61-973749137AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEB079D-F0A3-1EF4-9C61-973749137AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEB079D-F0A3-1EF4-9C61-973749137AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEB079D-F0A3-1EF4-9C61-973749137AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
